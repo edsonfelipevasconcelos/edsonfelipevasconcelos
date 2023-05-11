@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/edsonfelipevasconcelos">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonfelipevasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonfelipevasconcelos&include_all_commits=true&count_private=true&show_icons=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sidi Becker's Github Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonfelipevasconcelos&include_all_commits=true&count_private=true&show_icons=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Edson Felipe's Github Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonfelipevasconcelos&layout=compact&langs_count=7&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </div>
 <div style="display: inline_block"><br>
