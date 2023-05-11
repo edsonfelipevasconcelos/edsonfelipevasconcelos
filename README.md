@@ -4,7 +4,6 @@
 - 🌱 Swift, SwiftUI, UIKit e outras tecnologias..
 - 📫 Contate-me no email: edsonfelipe@gmail.com
 
-
 <div align="center">
   <a href="https://github.com/edsonfelipevasconcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonfelipevasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
