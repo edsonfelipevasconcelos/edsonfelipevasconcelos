@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Edson Felipe, iOS Developer
 
 - 🔭 Estou trabalhando em projetos pessoais
-- 🌱 Estudando Inglês, Swift, SwiftUI e outras tecnologias..
+- 🌱 Swift, SwiftUI, UIKit e outras tecnologias..
 - 📫 Contate-me no email: edsonfelipe@gmail.com
 
 <div align="center">
