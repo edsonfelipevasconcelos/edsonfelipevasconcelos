@@ -5,15 +5,6 @@
 - 📫 Contate-me no email: edsonfelipe@gmail.com
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/brand.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-    <script src="https://kit.fontawesome.com/26d4a64054.js"></script>
-    <title>LinkTree</title>
-</head>
 <div align="center">
   <a href="https://github.com/edsonfelipevasconcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonfelipevasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
