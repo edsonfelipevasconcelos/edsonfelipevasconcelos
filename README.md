@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Edson Vasconcelos, iOS Developer
 
-- 🔭 Estou trabalhando em projetos pessoais
+- 🔭 Evoluindo...
 - 🌱 Swift, SwiftUI, UIKit e outras tecnologias..
-- 📫 Contate-me no email: edsonfelipe@gmail.com
+- 📫 Contate-me no email: edsonfelipe@icloud.com
 
 <div align="center">
   <a href="https://github.com/edsonfelipevasconcelos">
